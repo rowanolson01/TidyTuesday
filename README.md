@@ -6,7 +6,7 @@
 
 This week's TidyTuesday explored the Wreck Inventory of Ireland Database, containing thousands of recorded shipwrecks spanning several centuries.
 
-Rather than mapping where wrecks occurred, I focused on **how the composition of Ireland's shipwrecks changed over time**. By normalizing the frequency of each vessel type, the visualization highlights the gradual transition from traditional sailing vessels—such as sloops, brigs, schooners, and barques—to steam-powered ships during the late nineteenth and early twentieth centuries.
+Rather than mapping where wrecks occurred, I focused on **how the composition of Ireland's shipwrecks changed over time**. By normalizing the frequency of each vessel type, the visualization highlights the gradual transition from traditional sailing vessels, such as sloops, brigs, schooners, and barques, to steam-powered ships during the late nineteenth and early twentieth centuries.
 
 Because each vessel class is scaled independently, the chart emphasizes *when* each type was most commonly lost rather than *how many* were lost. Together, these distributions illustrate the technological evolution of maritime trade and transport as reflected through Ireland's recorded shipwrecks.
 
