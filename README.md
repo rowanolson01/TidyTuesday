@@ -36,7 +36,7 @@ Together, these maps illustrate how seasonality shapes not only when species are
 
 ## 2026 Week 29 - Near-Death Experiences
 
-![The "Classic" Near-Death Experience Isn't Typical](2026%20Week%2029%20Near-Death%20Experiences/nderf.png)
+![The "Classic" Near-Death Experience Isn't Typical](2026%20Week%2029%20NDERF/nderf.png)
 
 This week's TidyTuesday explored the Near Death Experience Research Foundation (NDERF) dataset, containing hundreds of firsthand near-death experience reports alongside AI-detected themes extracted from each narrative.
 
