@@ -1,5 +1,22 @@
 # Tidy Tuesday Archive, Rowan Olson
 
+## 2026 Week 32 - Palomar Galaxies
+
+![Divining Nuclear Activity From a Core](2026%20Week%2032%20Palomar%20Galaxies/palomargalaxies.png)
+
+This week's TidyTuesday explored the **Palomar Spectroscopic Survey of Nearby Galaxies**, containing observations of nearby galaxies alongside their morphology and classifications of nuclear activity.
+
+Rather than focusing on the spectral measurements themselves, I explored **how nuclear activity changes across galaxy morphology**. By grouping galaxies into four broad morphological classes and tracing them to their observed nuclear activity, the visualization shows how the composition of galactic centers shifts across different galaxy forms.
+
+Late spiral galaxies stand apart, with star-forming H II nuclei dominating the group. Earlier galaxy forms exhibit a much broader mixture of nuclear activity, including LINER, Seyfert, and transition nuclei. The result is a surprisingly clear relationship between the large-scale structure of a galaxy and what is happening at its center.
+
+Together, these flows illustrate that a galaxy's morphology and its nuclear activity are not independent characteristics: **different kinds of galaxies tend to host very different kinds of centers**.
+
+**Links:**  
+[View Code](2026%20Week%2032%20Palomar%20Galaxies/palomargalaxies.py) |  
+[Palomar Survey Dataset](2026%20Week%2032%20Palomar%20Galaxies/palomar_survey.csv) |  
+[TidyTuesday Week 32](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026/2026-08-11)
+
 ## 2026 Week 31 - Basotho Wool Trade
 
 ![Basotho Wool Markets Keep Different Calendars](2026%20Week%2031%20Basotho%20Wool/basothowool.png)
