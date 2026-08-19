@@ -1,5 +1,22 @@
 # Tidy Tuesday Archive, Rowan Olson
 
+## 2026 Week 33 - IELTS
+
+![Purpose Separates IELTS Score Profiles](2026%20Week%2033%20IELTS/ielts.png)
+
+This week's TidyTuesday explored **IELTS test performance**, containing score distributions across different test-taking purposes for Academic IELTS in 2024–2025.
+
+Rather than comparing overall scores alone, I focused on **how score distributions differ depending on why people take the exam**. By plotting the full band distribution for each testing purpose alongside its weighted average, the visualization shows both where each group tends to score and how broadly those scores are distributed.
+
+Professional registration purposes occupy the upper end of the results, with doctor registration producing the highest weighted average at 7.14. Dentist and nurse registration also rank relatively high, while immigration and employment fall closer to the middle. Personal reasons and higher education purposes sit toward the lower end of the comparison.
+
+Together, these distributions illustrate how a single standardized exam can serve populations with substantially different score profiles: **why people take the IELTS is strongly associated with where their scores land**.
+
+**Links:**  
+[View Code](2026%20Week%2033%20IELTS/ielts.py) |  
+[IELTS Dataset](2026%20Week%2033%20IELTS/ielts.csv) |  
+[TidyTuesday Week 33](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026/2026-08-18)
+
 ## 2026 Week 32 - Palomar Galaxies
 
 ![Divining Nuclear Activity From a Core](2026%20Week%2032%20Palomar%20Galaxies/palomargalaxies.png)
