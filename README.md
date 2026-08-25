@@ -1,5 +1,22 @@
 # Tidy Tuesday Archive, Rowan Olson
 
+## 2026 Week 34 - Country Music
+
+![Who Shares Nashville's Backstage?](2026%20Week%2034%20Country%20Music/countrymusic.png)
+
+This week's TidyTuesday explored **country music**, containing information on top-30 country songs alongside their artists, writers, and producers from 2013–2019.
+
+Rather than focusing on the songs or artists themselves, I explored **how much of each artist's creative team is shared with the rest of Nashville**. For artists with at least six top-30 songs, I compared the writers and producers unique to that artist with those who also received credits alongside another major artist in the dataset.
+
+The differences are substantial. Luke Bryan sits at one extreme, with 85% of his writers and producers also working with another major artist. Several other artists share more than three quarters of their creative teams, while the opposite end looks very different. Only 23% of Luke Combs' collaborators are shared, and Zac Brown Band falls to just 19%.
+
+Together, these results show that country radio's biggest names operate within very different creative structures: **some draw heavily from Nashville's shared network of writers and producers, while others work with much more artist-specific teams**.
+
+**Links:**  
+[View Code](2026%20Week%2034%20Country%20Music/countrymusic.py) |  
+[Country Music Dataset](2026%20Week%2034%20Country%20Music/country_lyrics.csv) |  
+[TidyTuesday Week 34](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026/2026-08-25)
+
 ## 2026 Week 33 - IELTS
 
 ![Purpose Separates IELTS Score Profiles](2026%20Week%2033%20IELTS/ielts.png)
